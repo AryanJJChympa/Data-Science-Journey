@@ -1,0 +1,501 @@
+Company   , Industry     , Laid_Off, Date            , Location     , Revenue_Million
+DataWorks , Retail       , None    , 09-01-2024      , Boston       , None
+BetaSoft  , Finance      , thirty  , 26-02-2024      , SF           , 206.2
+TechNova  , Retail       , twenty  , 28-04-2024      , San Francisco, None
+Gamma LLC , Manufacturing, None    , 23-02-2024      , San Francisco, None
+NextGen   , IT           , None    , April 19 2024   , New York     , None
+DataWorks , Retail       , None    , 15-02-2024      , San Francisco, None
+OmegaCorp , Healthcare   , 138     , 07-02-2024      , new york     , None
+Alpha Inc., Retail       , thirty  , 10-04-2024      , NYC          , 274.8
+OmegaCorp , Manufacturing, 183     , 26-05-2024      , new york     , None
+InnoSoft  , Retail       , thirty  , 05-04-2024      , SF           , None
+CloudNine , Retail       , None    , 22-01-2024      , Boston       , None
+NextGen   , IT           , 56      , May 01 2024     , new york     , 25.5
+Gamma LLC , Finance      , None    , 2024.01.29      , SF           , 262.8
+NextGen   , Manufacturing, thirty  , 23-01-2024      , San Francisco, None
+CloudNine , Manufacturing, 172     , 28-04-2024      , Austin       , None
+NextGen   , Finance      , twenty  , 26-02-2024      , Boston       , 485.5
+TechNova  , Finance      , thirty  , 02-04-2024      , NYC          , None
+Gamma LLC , Healthcare   , 17      , 2024.05.02      , Boston       , None
+CloudNine , Retail       , twenty  , 28-01-2024      , Chicago      , None
+Alpha Inc., Manufacturing, thirty  , 11-01-2024      , Boston       , None
+BetaSoft  , Manufacturing, None    , 04-02-2024      , Chicago      , 344.9
+NextGen   , Healthcare   , None    , 2024.01.04      , SF           , 486.3
+OmegaCorp , Healthcare   , 155     , 26-01-2024      , SF           , None
+BetaSoft  , IT           , twenty  , 17-01-2024      , San Fran     , None
+Alpha Inc., Healthcare   , None    , March 16 2024   , San Francisco, None
+CloudNine , Retail       , 193     , 30-05-2024      , Chicago      , None
+BetaSoft  , Manufacturing, thirty  , 26-05-2024      , San Fran     , None
+NextGen   , Finance      , thirty  , April 04 2024   , Austin       , 362.2
+OmegaCorp , Manufacturing, None    , 15-02-2024      , San Fran     , 134.3
+DataWorks , Manufacturing, None    , 03-03-2024      , Chicago      , None
+InnoSoft  , Finance      , None    , May 06 2024     , Boston       , None
+DataWorks , Healthcare   , thirty  , 17-05-2024      , San Francisco, None
+Alpha Inc., Healthcare   , 72      , 2024.04.10      , Boston       , 262.2
+TechNova  , Finance      , twenty  , 10-04-2024      , Chicago      , None
+NextGen   , Finance      , None    , 09-03-2024      , Boston       , None
+Alpha Inc., Healthcare   , twenty  , 2024.01.13      , Austin       , 447.4
+Gamma LLC , Manufacturing, None    , May 20 2024     , SF           , 132.7
+Alpha Inc., Retail       , thirty  , 19-02-2024      , NYC          , None
+InnoSoft  , Healthcare   , twenty  , 18-05-2024      , San Francisco, None
+NextGen   , Retail       , None    , 23-01-2024      , SF           , None
+FutureTek , Retail       , thirty  , 08-03-2024      , new york     , None
+BetaSoft  , Finance      , None    , 13-03-2024      , Boston       , None
+FutureTek , Retail       , thirty  , 03-04-2024      , San Fran     , None
+InnoSoft  , Healthcare   , thirty  , 22-02-2024      , NYC          , 493
+Gamma LLC , Finance      , thirty  , 27-05-2024      , Chicago      , 185.9
+BetaSoft  , Retail       , None    , 10-01-2024      , San Fran     , None
+NextGen   , Healthcare   , thirty  , 22-03-2024      , San Fran     , 269.2
+TechNova  , Manufacturing, thirty  , 21-02-2024      , new york     , None
+InnoSoft  , Retail       , thirty  , 26-02-2024      , San Fran     , None
+FutureTek , Finance      , thirty  , 10-02-2024      , Boston       , 221.1
+CloudNine , IT           , twenty  , 24-02-2024      , NYC          , None
+CloudNine , Finance      , thirty  , May 23 2024     , Boston       , 364
+NextGen   , Manufacturing, 116     , May 24 2024     , Chicago      , None
+TechNova  , Healthcare   , None    , 2024.01.09      , NYC          , 191.5
+OmegaCorp , IT           , twenty  , 25-02-2024      , New York     , None
+DataWorks , Healthcare   , None    , 02-01-2024      , NYC          , None
+Gamma LLC , IT           , None    , 28-04-2024      , Boston       , None
+TechNova  , Finance      , 199     , March 24 2024   , Boston       , None
+BetaSoft  , Retail       , 139     , May 28 2024     , Chicago      , None
+TechNova  , IT           , None    , 22-01-2024      , New York     , None
+FutureTek , Finance      , twenty  , 05-05-2024      , New York     , None
+Gamma LLC , Healthcare   , None    , 2024.02.17      , Chicago      , None
+CloudNine , Finance      , twenty  , April 23 2024   , Chicago      , None
+BetaSoft  , Healthcare   , None    , May 01 2024     , San Fran     , 362
+NextGen   , Finance      , thirty  , 2024.04.29      , new york     , 138.2
+TechNova  , IT           , None    , 01-01-2024      , Austin       , 416.9
+Alpha Inc., Manufacturing, thirty  , 27-04-2024      , San Fran     , None
+OmegaCorp , Finance      , 37      , 18-01-2024      , SF           , None
+CloudNine , Retail       , twenty  , 05-04-2024      , Seattle      , None
+NextGen   , Manufacturing, thirty  , 2024.01.28      , SF           , None
+DataWorks , Retail       , 125     , 20-02-2024      , San Fran     , None
+OmegaCorp , Healthcare   , twenty  , 19-03-2024      , Austin       , None
+TechNova  , Finance      , twenty  , 26-03-2024      , Austin       , 72.5
+TechNova  , Healthcare   , None    , 06-04-2024      , SF           , 267.7
+BetaSoft  , Finance      , None    , 06-05-2024      , Chicago      , None
+NextGen   , Retail       , None    , 18-02-2024      , Seattle      , None
+InnoSoft  , Manufacturing, twenty  , March 12 2024   , SF           , 161.8
+CloudNine , Healthcare   , twenty  , 2024.01.29      , Austin       , None
+TechNova  , Retail       , thirty  , 2024.05.10      , Seattle      , None
+OmegaCorp , Retail       , thirty  , 2024.02.23      , NYC          , None
+CloudNine , Manufacturing, thirty  , 12-01-2024      , San Francisco, None
+OmegaCorp , Manufacturing, 97      , 29-02-2024      , San Fran     , 269.6
+OmegaCorp , Healthcare   , None    , 13-03-2024      , New York     , None
+InnoSoft  , Manufacturing, None    , 10-03-2024      , Austin       , 108.4
+InnoSoft  , IT           , None    , April 28 2024   , NYC          , None
+Alpha Inc., Healthcare   , twenty  , 17-01-2024      , SF           , None
+Alpha Inc., IT           , 28      , 24-02-2024      , Seattle      , None
+InnoSoft  , Healthcare   , None    , 02-01-2024      , Boston       , None
+TechNova  , Retail       , thirty  , 09-05-2024      , Boston       , None
+DataWorks , Healthcare   , 146     , February 14 2024, Boston       , None
+Gamma LLC , IT           , None    , 26-02-2024      , SF           , 158.3
+BetaSoft  , Healthcare   , None    , 24-05-2024      , Austin       , None
+CloudNine , Manufacturing, None    , 13-02-2024      , Boston       , 360.6
+InnoSoft  , Manufacturing, None    , March 18 2024   , San Francisco, None
+NextGen   , IT           , None    , 10-05-2024      , SF           , None
+NextGen   , Healthcare   , None    , 09-04-2024      , Seattle      , None
+DataWorks , IT           , None    , 2024.05.06      , Seattle      , None
+TechNova  , Retail       , None    , March 01 2024   , new york     , 297.1
+Alpha Inc., Manufacturing, None    , 15-01-2024      , Austin       , None
+InnoSoft  , Healthcare   , thirty  , 11-04-2024      , SF           , None
+Gamma LLC , Finance      , None    , May 30 2024     , NYC          , None
+InnoSoft  , Retail       , None    , 29-02-2024      , Austin       , 26.7
+BetaSoft  , IT           , None    , 18-04-2024      , Seattle      , None
+CloudNine , Manufacturing, thirty  , 07-01-2024      , Chicago      , None
+InnoSoft  , Finance      , thirty  , 01-05-2024      , Boston       , 263
+OmegaCorp , Finance      , None    , 02-02-2024      , Austin       , 104.3
+OmegaCorp , Finance      , twenty  , 18-05-2024      , SF           , 264.8
+NextGen   , IT           , None    , 01-03-2024      , San Fran     , None
+BetaSoft  , Retail       , thirty  , 04-03-2024      , New York     , 79.4
+BetaSoft  , Retail       , 95      , 18-04-2024      , NYC          , 94.9
+Gamma LLC , Healthcare   , twenty  , 07-04-2024      , San Fran     , None
+BetaSoft  , Retail       , thirty  , 28-02-2024      , San Francisco, None
+BetaSoft  , Manufacturing, None    , 22-02-2024      , Chicago      , None
+OmegaCorp , Finance      , None    , 01-02-2024      , Seattle      , None
+CloudNine , Manufacturing, thirty  , 19-01-2024      , Seattle      , 198.2
+BetaSoft  , Healthcare   , twenty  , 20-01-2024      , Boston       , 17
+CloudNine , Finance      , None    , 14-01-2024      , New York     , None
+TechNova  , IT           , None    , 03-03-2024      , Seattle      , 489.5
+TechNova  , Finance      , twenty  , 06-03-2024      , San Fran     , None
+FutureTek , Healthcare   , None    , 2024.01.28      , San Francisco, None
+DataWorks , Retail       , thirty  , 2024.04.25      , San Francisco, None
+FutureTek , Finance      , thirty  , April 29 2024   , SF           , 84.7
+Gamma LLC , IT           , twenty  , 16-04-2024      , SF           , 298.2
+InnoSoft  , Healthcare   , 170     , 30-05-2024      , SF           , None
+FutureTek , IT           , 133     , April 10 2024   , SF           , None
+InnoSoft  , Retail       , thirty  , 10-05-2024      , New York     , 373.9
+NextGen   , Finance      , 176     , 05-03-2024      , Boston       , None
+OmegaCorp , IT           , 56      , 26-01-2024      , Boston       , None
+FutureTek , Healthcare   , thirty  , 23-03-2024      , San Francisco, 142.1
+TechNova  , IT           , thirty  , 01-03-2024      , Boston       , None
+FutureTek , Retail       , twenty  , 26-02-2024      , Seattle      , None
+CloudNine , Healthcare   , None    , March 16 2024   , New York     , 143.5
+FutureTek , IT           , None    , 26-03-2024      , Austin       , 92.6
+BetaSoft  , Retail       , None    , 18-05-2024      , SF           , 61
+InnoSoft  , Manufacturing, None    , 21-01-2024      , SF           , None
+TechNova  , Retail       , thirty  , 12-01-2024      , Chicago      , 57.1
+FutureTek , Retail       , twenty  , 18-02-2024      , New York     , 307
+BetaSoft  , Retail       , thirty  , 15-03-2024      , Austin       , None
+CloudNine , Manufacturing, thirty  , 01-04-2024      , NYC          , 420.8
+NextGen   , Finance      , None    , 15-04-2024      , San Francisco, None
+OmegaCorp , Finance      , 50      , 27-01-2024      , New York     , 64.8
+InnoSoft  , Finance      , thirty  , 2024.01.22      , New York     , 59.5
+FutureTek , Retail       , twenty  , 21-04-2024      , SF           , None
+InnoSoft  , Retail       , twenty  , 10-01-2024      , Austin       , None
+Gamma LLC , Retail       , None    , 07-05-2024      , San Francisco, 444.5
+BetaSoft  , Finance      , None    , 2024.03.28      , new york     , None
+OmegaCorp , Manufacturing, None    , 17-02-2024      , San Francisco, None
+FutureTek , Manufacturing, 26      , 07-02-2024      , New York     , None
+InnoSoft  , Healthcare   , 52      , 06-03-2024      , Chicago      , None
+DataWorks , Healthcare   , twenty  , 31-01-2024      , SF           , None
+DataWorks , Healthcare   , twenty  , 2024.05.15      , Chicago      , 65.5
+OmegaCorp , Healthcare   , twenty  , 28-02-2024      , Austin       , 289.2
+BetaSoft  , IT           , twenty  , 12-01-2024      , San Francisco, 107.7
+OmegaCorp , Finance      , None    , 26-01-2024      , Seattle      , 186.8
+BetaSoft  , IT           , thirty  , 24-03-2024      , Seattle      , None
+TechNova  , Retail       , None    , 28-05-2024      , San Fran     , 101.7
+DataWorks , Finance      , None    , April 06 2024   , Seattle      , None
+InnoSoft  , Finance      , twenty  , February 09 2024, San Fran     , 326
+FutureTek , Manufacturing, 99      , May 16 2024     , NYC          , 236.5
+FutureTek , Healthcare   , None    , 14-02-2024      , San Francisco, None
+BetaSoft  , IT           , thirty  , 2024.05.10      , New York     , 460.1
+Gamma LLC , Manufacturing, twenty  , 21-04-2024      , Chicago      , 479.5
+Gamma LLC , Healthcare   , twenty  , 26-03-2024      , San Francisco, None
+OmegaCorp , Manufacturing, None    , 10-02-2024      , New York     , None
+InnoSoft  , Healthcare   , None    , 06-05-2024      , Austin       , None
+BetaSoft  , IT           , None    , 2024.03.08      , Seattle      , None
+BetaSoft  , IT           , None    , 18-01-2024      , Austin       , None
+Gamma LLC , Retail       , None    , 30-05-2024      , San Francisco, None
+DataWorks , Finance      , None    , 2024.03.02      , San Francisco, None
+NextGen   , Retail       , thirty  , 06-02-2024      , SF           , 418.7
+OmegaCorp , IT           , 71      , 10-01-2024      , new york     , None
+InnoSoft  , Manufacturing, 37      , 2024.03.19      , SF           , None
+Gamma LLC , Manufacturing, None    , 29-01-2024      , Austin       , 142
+FutureTek , Retail       , None    , 25-05-2024      , NYC          , None
+TechNova  , Manufacturing, None    , 31-01-2024      , San Fran     , None
+TechNova  , Retail       , 60      , 06-03-2024      , Boston       , None
+TechNova  , Manufacturing, None    , February 12 2024, New York     , None
+OmegaCorp , Healthcare   , thirty  , 12-05-2024      , SF           , None
+Alpha Inc., Finance      , None    , 25-05-2024      , New York     , None
+InnoSoft  , Healthcare   , thirty  , January 31 2024 , Boston       , None
+OmegaCorp , Healthcare   , None    , 03-04-2024      , NYC          , None
+InnoSoft  , Manufacturing, None    , February 17 2024, NYC          , None
+Alpha Inc., Healthcare   , 29      , 2024.01.19      , new york     , None
+BetaSoft  , IT           , None    , 05-04-2024      , Austin       , None
+DataWorks , Finance      , None    , 26-03-2024      , San Fran     , None
+FutureTek , Finance      , None    , 10-01-2024      , Boston       , None
+InnoSoft  , Finance      , None    , 03-01-2024      , Austin       , None
+CloudNine , Finance      , None    , 04-01-2024      , new york     , 263
+BetaSoft  , IT           , 138     , May 15 2024     , San Fran     , 441.6
+Alpha Inc., IT           , 172     , 18-03-2024      , new york     , 491.1
+FutureTek , Healthcare   , thirty  , March 11 2024   , SF           , None
+NextGen   , Retail       , twenty  , 28-03-2024      , San Fran     , 433.8
+InnoSoft  , Healthcare   , twenty  , 03-04-2024      , New York     , None
+Alpha Inc., Healthcare   , thirty  , 17-02-2024      , San Fran     , None
+NextGen   , Retail       , 120     , April 21 2024   , Chicago      , 242.7
+OmegaCorp , Manufacturing, None    , 04-05-2024      , Chicago      , 173.8
+CloudNine , Healthcare   , None    , 2024.01.01      , new york     , None
+Gamma LLC , IT           , None    , 10-02-2024      , NYC          , None
+CloudNine , Healthcare   , None    , 27-04-2024      , Seattle      , 463.8
+InnoSoft  , Retail       , 73      , 21-04-2024      , San Francisco, None
+Alpha Inc., Healthcare   , None    , 2024.01.05      , San Francisco, None
+OmegaCorp , Finance      , None    , 02-01-2024      , Boston       , None
+InnoSoft  , Manufacturing, None    , 09-01-2024      , SF           , None
+InnoSoft  , Healthcare   , None    , May 12 2024     , San Francisco, None
+NextGen   , Healthcare   , None    , 28-01-2024      , new york     , None
+TechNova  , IT           , None    , 15-01-2024      , New York     , None
+FutureTek , Retail       , None    , 08-03-2024      , Boston       , None
+BetaSoft  , Manufacturing, None    , 16-04-2024      , Chicago      , 125
+CloudNine , Manufacturing, None    , 21-05-2024      , Seattle      , None
+Gamma LLC , Manufacturing, None    , March 25 2024   , NYC          , None
+FutureTek , Healthcare   , twenty  , 13-02-2024      , San Francisco, 128
+DataWorks , Manufacturing, None    , 11-03-2024      , NYC          , 175.8
+CloudNine , IT           , None    , 21-04-2024      , San Fran     , None
+Alpha Inc., Finance      , None    , 2024.05.25      , SF           , None
+Alpha Inc., Retail       , 146     , 03-03-2024      , Boston       , None
+Alpha Inc., Finance      , thirty  , 11-01-2024      , Chicago      , None
+DataWorks , Healthcare   , None    , 01-02-2024      , San Fran     , 21.5
+TechNova  , Finance      , None    , April 11 2024   , San Francisco, None
+Gamma LLC , IT           , None    , 04-04-2024      , New York     , None
+TechNova  , Manufacturing, None    , 03-02-2024      , NYC          , None
+Alpha Inc., Retail       , twenty  , January 03 2024 , Chicago      , None
+NextGen   , Healthcare   , twenty  , 16-02-2024      , San Francisco, None
+Gamma LLC , IT           , None    , 16-03-2024      , NYC          , None
+TechNova  , Healthcare   , 59      , 11-02-2024      , Chicago      , None
+InnoSoft  , Retail       , None    , 19-05-2024      , Seattle      , 121.8
+InnoSoft  , Manufacturing, None    , March 07 2024   , New York     , None
+TechNova  , IT           , thirty  , 2024.01.03      , new york     , None
+DataWorks , Healthcare   , 30      , 18-03-2024      , Seattle      , None
+Alpha Inc., Healthcare   , thirty  , 22-05-2024      , Chicago      , None
+DataWorks , Retail       , None    , January 05 2024 , New York     , 418.5
+NextGen   , IT           , None    , 17-03-2024      , New York     , None
+TechNova  , Healthcare   , 142     , 2024.02.25      , NYC          , None
+DataWorks , Finance      , thirty  , 11-03-2024      , NYC          , None
+Alpha Inc., Healthcare   , twenty  , 08-04-2024      , Boston       , None
+DataWorks , Retail       , None    , 11-04-2024      , new york     , None
+Alpha Inc., Healthcare   , twenty  , 22-04-2024      , SF           , 92.7
+DataWorks , Retail       , thirty  , March 02 2024   , San Francisco, None
+CloudNine , Manufacturing, twenty  , January 19 2024 , Chicago      , None
+Gamma LLC , Manufacturing, None    , January 04 2024 , new york     , None
+InnoSoft  , IT           , None    , 18-02-2024      , New York     , None
+TechNova  , Manufacturing, twenty  , 21-05-2024      , NYC          , 119.8
+BetaSoft  , Healthcare   , None    , 15-03-2024      , San Francisco, 373.2
+CloudNine , IT           , thirty  , March 07 2024   , Chicago      , 107.5
+TechNova  , Manufacturing, None    , 2024.05.26      , NYC          , None
+CloudNine , Finance      , None    , 27-04-2024      , New York     , None
+NextGen   , Healthcare   , twenty  , 24-02-2024      , NYC          , 185.6
+Alpha Inc., IT           , None    , 12-05-2024      , SF           , None
+CloudNine , Finance      , None    , 25-02-2024      , SF           , None
+NextGen   , Manufacturing, twenty  , March 28 2024   , Seattle      , None
+Alpha Inc., Manufacturing, None    , March 12 2024   , New York     , None
+Alpha Inc., IT           , None    , April 05 2024   , SF           , None
+FutureTek , Healthcare   , None    , January 31 2024 , San Fran     , None
+OmegaCorp , Finance      , None    , 2024.03.17      , Boston       , None
+OmegaCorp , Retail       , 86      , January 23 2024 , new york     , None
+CloudNine , Healthcare   , twenty  , 17-04-2024      , San Fran     , None
+OmegaCorp , Finance      , twenty  , 2024.02.07      , New York     , None
+CloudNine , Manufacturing, None    , 03-04-2024      , NYC          , None
+Alpha Inc., IT           , twenty  , 29-02-2024      , SF           , None
+TechNova  , Manufacturing, 146     , January 20 2024 , Seattle      , 154
+DataWorks , Finance      , thirty  , 23-01-2024      , Boston       , None
+BetaSoft  , Healthcare   , twenty  , March 30 2024   , Chicago      , 180.4
+NextGen   , Healthcare   , thirty  , 21-03-2024      , Austin       , None
+FutureTek , Retail       , None    , 02-03-2024      , Austin       , None
+OmegaCorp , Manufacturing, 27      , January 03 2024 , New York     , None
+DataWorks , Finance      , None    , 03-04-2024      , San Fran     , 463.1
+TechNova  , Retail       , thirty  , 27-01-2024      , Chicago      , 491.8
+CloudNine , IT           , 124     , 22-01-2024      , NYC          , 155.7
+FutureTek , IT           , 119     , 19-05-2024      , San Fran     , None
+OmegaCorp , Retail       , None    , 07-01-2024      , New York     , None
+InnoSoft  , IT           , None    , 03-01-2024      , NYC          , None
+Gamma LLC , Finance      , twenty  , 24-05-2024      , Boston       , 20.2
+DataWorks , Finance      , 11      , 15-02-2024      , San Fran     , None
+DataWorks , Retail       , 20      , 04-03-2024      , New York     , None
+Alpha Inc., Retail       , thirty  , 11-05-2024      , Chicago      , 455.5
+FutureTek , IT           , 68      , 20-05-2024      , NYC          , 427
+Gamma LLC , Retail       , None    , 05-05-2024      , Boston       , None
+Alpha Inc., Finance      , None    , 17-03-2024      , Austin       , 19
+Alpha Inc., Healthcare   , thirty  , 2024.05.18      , San Fran     , None
+OmegaCorp , IT           , None    , 08-04-2024      , San Fran     , 167.4
+OmegaCorp , Finance      , None    , 02-02-2024      , Boston       , None
+Alpha Inc., Healthcare   , 37      , 23-03-2024      , San Francisco, 164.5
+TechNova  , Healthcare   , 107     , 2024.03.02      , Seattle      , None
+BetaSoft  , IT           , thirty  , 20-03-2024      , Seattle      , None
+CloudNine , IT           , twenty  , 31-01-2024      , San Francisco, None
+NextGen   , Finance      , None    , 06-02-2024      , Seattle      , 421.8
+DataWorks , Manufacturing, twenty  , April 22 2024   , San Francisco, 110.7
+OmegaCorp , Finance      , twenty  , 20-01-2024      , Seattle      , None
+InnoSoft  , Healthcare   , thirty  , 2024.02.16      , San Francisco, 297.8
+InnoSoft  , Finance      , thirty  , 23-01-2024      , Boston       , None
+FutureTek , IT           , 52      , 11-04-2024      , Austin       , 379.9
+Gamma LLC , Healthcare   , None    , 27-02-2024      , new york     , None
+Gamma LLC , Retail       , None    , 26-01-2024      , San Francisco, None
+InnoSoft  , Manufacturing, thirty  , 16-02-2024      , Austin       , None
+NextGen   , Finance      , None    , 13-02-2024      , San Francisco, None
+NextGen   , Manufacturing, twenty  , 04-04-2024      , Seattle      , None
+FutureTek , Manufacturing, thirty  , 2024.02.18      , Boston       , None
+Gamma LLC , IT           , 22      , 16-01-2024      , Seattle      , None
+Gamma LLC , Finance      , None    , 2024.02.22      , NYC          , None
+Gamma LLC , Manufacturing, 98      , 20-05-2024      , Boston       , None
+NextGen   , Finance      , twenty  , 16-01-2024      , Austin       , None
+FutureTek , IT           , None    , 03-05-2024      , SF           , 79.3
+BetaSoft  , IT           , 62      , 29-04-2024      , Boston       , 254.9
+DataWorks , Manufacturing, None    , 04-01-2024      , Austin       , None
+TechNova  , Retail       , None    , 19-04-2024      , New York     , None
+BetaSoft  , Finance      , None    , 01-03-2024      , SF           , None
+NextGen   , Healthcare   , 196     , 2024.03.24      , Chicago      , None
+OmegaCorp , IT           , None    , 20-05-2024      , new york     , None
+InnoSoft  , Healthcare   , 192     , 25-01-2024      , San Fran     , None
+CloudNine , Manufacturing, 28      , May 23 2024     , Seattle      , None
+CloudNine , Healthcare   , thirty  , 20-03-2024      , SF           , None
+InnoSoft  , IT           , 196     , February 22 2024, San Fran     , None
+NextGen   , Healthcare   , None    , April 24 2024   , SF           , None
+TechNova  , Finance      , thirty  , 2024.03.24      , Boston       , None
+Alpha Inc., Retail       , None    , 19-03-2024      , SF           , None
+Gamma LLC , Healthcare   , None    , 2024.01.28      , San Francisco, 435.3
+InnoSoft  , Manufacturing, None    , February 07 2024, Boston       , 413.9
+DataWorks , Finance      , twenty  , 21-02-2024      , Boston       , None
+InnoSoft  , Healthcare   , 135     , 2024.03.01      , Austin       , 254.8
+BetaSoft  , IT           , twenty  , 05-05-2024      , SF           , 146.7
+Gamma LLC , Finance      , thirty  , 26-04-2024      , Seattle      , 251
+DataWorks , IT           , None    , 15-03-2024      , Seattle      , 320.1
+InnoSoft  , IT           , None    , 08-05-2024      , new york     , None
+TechNova  , Manufacturing, thirty  , 14-05-2024      , Chicago      , None
+InnoSoft  , Retail       , 39      , 16-05-2024      , NYC          , None
+FutureTek , Healthcare   , thirty  , 20-03-2024      , Austin       , 365.1
+FutureTek , Retail       , thirty  , 11-04-2024      , New York     , None
+InnoSoft  , Retail       , twenty  , 05-02-2024      , SF           , 327.8
+Alpha Inc., Healthcare   , None    , 02-02-2024      , San Fran     , None
+CloudNine , IT           , 56      , 25-04-2024      , San Fran     , None
+OmegaCorp , Healthcare   , 107     , 23-03-2024      , San Francisco, None
+OmegaCorp , Manufacturing, None    , 01-01-2024      , New York     , 91.7
+InnoSoft  , Manufacturing, None    , 21-01-2024      , Seattle      , 234.2
+FutureTek , Healthcare   , None    , 13-01-2024      , San Francisco, 206.4
+BetaSoft  , Healthcare   , None    , 15-01-2024      , SF           , None
+FutureTek , Retail       , None    , 05-01-2024      , Chicago      , None
+OmegaCorp , Healthcare   , twenty  , 03-02-2024      , Seattle      , None
+InnoSoft  , Healthcare   , 165     , May 14 2024     , SF           , None
+FutureTek , Manufacturing, None    , 05-04-2024      , Chicago      , 416.7
+Gamma LLC , Retail       , 152     , 2024.03.31      , San Fran     , None
+InnoSoft  , Manufacturing, 172     , 27-05-2024      , San Fran     , None
+BetaSoft  , Finance      , twenty  , 29-03-2024      , Chicago      , None
+BetaSoft  , Retail       , twenty  , 10-05-2024      , San Francisco, None
+DataWorks , Retail       , None    , 14-01-2024      , new york     , 383.8
+InnoSoft  , IT           , thirty  , 08-05-2024      , new york     , None
+CloudNine , Retail       , None    , 12-01-2024      , Austin       , None
+FutureTek , Retail       , None    , 11-03-2024      , San Francisco, None
+InnoSoft  , Manufacturing, thirty  , 26-01-2024      , NYC          , 122.9
+CloudNine , IT           , None    , 09-03-2024      , San Fran     , None
+OmegaCorp , Finance      , None    , 08-02-2024      , Boston       , None
+Alpha Inc., Manufacturing, None    , 31-03-2024      , NYC          , None
+FutureTek , IT           , None    , 08-01-2024      , Chicago      , None
+CloudNine , IT           , None    , 01-04-2024      , New York     , None
+FutureTek , Healthcare   , thirty  , 17-02-2024      , San Fran     , 304.1
+FutureTek , Manufacturing, 120     , 18-04-2024      , San Francisco, None
+Gamma LLC , Manufacturing, None    , 30-04-2024      , San Fran     , None
+TechNova  , Healthcare   , None    , February 03 2024, Austin       , 423.7
+Gamma LLC , Manufacturing, 68      , 04-01-2024      , NYC          , 456.9
+BetaSoft  , Healthcare   , None    , 30-01-2024      , San Fran     , None
+FutureTek , Manufacturing, twenty  , 07-05-2024      , Chicago      , None
+InnoSoft  , Healthcare   , thirty  , 27-05-2024      , San Francisco, None
+TechNova  , IT           , None    , 22-03-2024      , NYC          , 236.6
+CloudNine , Manufacturing, None    , 11-03-2024      , Boston       , None
+OmegaCorp , Retail       , twenty  , 19-02-2024      , San Fran     , None
+NextGen   , Healthcare   , 149     , 01-02-2024      , NYC          , 88.2
+Gamma LLC , Finance      , None    , 14-04-2024      , Seattle      , None
+CloudNine , Finance      , None    , 2024.03.13      , Boston       , None
+DataWorks , Healthcare   , None    , 02-01-2024      , San Fran     , 320.8
+FutureTek , Manufacturing, None    , 26-01-2024      , SF           , 336.5
+TechNova  , Finance      , 160     , 07-01-2024      , Chicago      , None
+CloudNine , Finance      , twenty  , 2024.02.27      , San Fran     , None
+TechNova  , Healthcare   , None    , 20-02-2024      , Chicago      , 214.6
+Gamma LLC , Retail       , None    , 2024.02.11      , San Fran     , None
+DataWorks , Healthcare   , thirty  , April 04 2024   , Chicago      , None
+Gamma LLC , Manufacturing, twenty  , 29-01-2024      , new york     , None
+InnoSoft  , Manufacturing, twenty  , February 18 2024, Austin       , 29.6
+OmegaCorp , IT           , 76      , 16-04-2024      , San Fran     , None
+OmegaCorp , Retail       , None    , 20-05-2024      , New York     , None
+NextGen   , Retail       , twenty  , 15-02-2024      , Boston       , 32.7
+NextGen   , IT           , 167     , 01-04-2024      , new york     , None
+NextGen   , Healthcare   , 118     , 09-01-2024      , Austin       , None
+BetaSoft  , Healthcare   , None    , April 10 2024   , Austin       , None
+OmegaCorp , Retail       , None    , 09-05-2024      , Boston       , None
+Alpha Inc., Finance      , thirty  , 26-05-2024      , new york     , None
+InnoSoft  , Manufacturing, None    , 09-05-2024      , Boston       , None
+Alpha Inc., Finance      , None    , 11-05-2024      , New York     , 266.3
+Gamma LLC , Manufacturing, None    , 31-03-2024      , Chicago      , None
+CloudNine , IT           , None    , 16-05-2024      , Chicago      , 15
+TechNova  , Manufacturing, thirty  , 21-03-2024      , Seattle      , None
+Gamma LLC , Finance      , thirty  , February 03 2024, SF           , None
+Alpha Inc., IT           , thirty  , 16-01-2024      , Chicago      , 314.4
+CloudNine , IT           , thirty  , 03-02-2024      , New York     , 401.6
+TechNova  , Finance      , thirty  , 2024.05.15      , San Fran     , None
+FutureTek , IT           , twenty  , May 12 2024     , Austin       , None
+DataWorks , IT           , twenty  , 16-04-2024      , new york     , 461.5
+Alpha Inc., Retail       , 50      , 12-04-2024      , Seattle      , 295.7
+OmegaCorp , IT           , twenty  , January 04 2024 , Austin       , 408.5
+InnoSoft  , Manufacturing, 111     , 29-03-2024      , New York     , None
+BetaSoft  , Healthcare   , thirty  , 01-03-2024      , SF           , 327.4
+BetaSoft  , Manufacturing, twenty  , 2024.03.06      , New York     , None
+Gamma LLC , Manufacturing, twenty  , 28-04-2024      , NYC          , None
+Alpha Inc., Manufacturing, None    , 21-04-2024      , Seattle      , None
+TechNova  , Finance      , thirty  , 16-02-2024      , Chicago      , None
+OmegaCorp , Finance      , 40      , 16-03-2024      , Austin       , None
+Alpha Inc., Retail       , thirty  , 10-02-2024      , Austin       , 356.9
+InnoSoft  , Healthcare   , thirty  , 30-04-2024      , San Francisco, None
+CloudNine , Retail       , None    , 24-03-2024      , NYC          , 50.7
+FutureTek , Healthcare   , twenty  , 24-05-2024      , San Francisco, None
+NextGen   , Finance      , None    , 10-04-2024      , Chicago      , 235.8
+NextGen   , Healthcare   , twenty  , 27-04-2024      , new york     , 185.4
+InnoSoft  , IT           , None    , 02-03-2024      , San Francisco, None
+CloudNine , Finance      , twenty  , 20-05-2024      , new york     , None
+Gamma LLC , Finance      , thirty  , 19-01-2024      , San Francisco, 56.1
+BetaSoft  , IT           , 122     , 2024.01.15      , San Francisco, 341.3
+BetaSoft  , Retail       , 44      , 21-04-2024      , SF           , None
+FutureTek , Healthcare   , 120     , 17-02-2024      , Chicago      , None
+TechNova  , Healthcare   , 173     , 16-02-2024      , New York     , None
+OmegaCorp , IT           , twenty  , 24-01-2024      , NYC          , None
+DataWorks , Healthcare   , None    , 26-02-2024      , San Francisco, None
+OmegaCorp , IT           , thirty  , 05-01-2024      , San Francisco, None
+DataWorks , Healthcare   , None    , 16-04-2024      , Austin       , 111
+NextGen   , IT           , thirty  , 15-02-2024      , Austin       , None
+Gamma LLC , IT           , twenty  , 25-05-2024      , Boston       , None
+OmegaCorp , Healthcare   , None    , March 04 2024   , San Fran     , 230.7
+Gamma LLC , IT           , 172     , 25-05-2024      , NYC          , None
+CloudNine , IT           , twenty  , 25-02-2024      , Chicago      , None
+Alpha Inc., Finance      , 12      , 22-04-2024      , San Fran     , None
+BetaSoft  , Finance      , twenty  , 06-01-2024      , San Fran     , 387.7
+TechNova  , IT           , 76      , April 30 2024   , Seattle      , 120.3
+NextGen   , Retail       , 50      , April 05 2024   , Austin       , None
+DataWorks , Healthcare   , None    , 01-05-2024      , Seattle      , None
+NextGen   , Finance      , None    , 18-04-2024      , Chicago      , None
+Gamma LLC , Retail       , thirty  , 03-02-2024      , New York     , None
+FutureTek , Finance      , thirty  , 29-03-2024      , SF           , None
+Gamma LLC , IT           , 116     , February 07 2024, new york     , None
+TechNova  , Manufacturing, None    , 21-02-2024      , San Francisco, None
+NextGen   , Healthcare   , None    , 01-05-2024      , Boston       , None
+OmegaCorp , Retail       , 86      , 10-02-2024      , Austin       , None
+DataWorks , Finance      , 27      , February 14 2024, Austin       , None
+BetaSoft  , Manufacturing, 48      , 30-03-2024      , SF           , None
+BetaSoft  , Retail       , twenty  , 13-02-2024      , SF           , None
+CloudNine , Finance      , thirty  , 09-03-2024      , Boston       , 171.4
+CloudNine , Healthcare   , None    , 19-01-2024      , Chicago      , 310.5
+CloudNine , Retail       , None    , 12-01-2024      , Seattle      , 74.6
+Alpha Inc., Healthcare   , twenty  , 03-04-2024      , NYC          , None
+InnoSoft  , Finance      , None    , April 17 2024   , Chicago      , None
+Gamma LLC , IT           , None    , 12-05-2024      , Chicago      , None
+OmegaCorp , Healthcare   , thirty  , March 11 2024   , New York     , None
+NextGen   , Manufacturing, None    , 11-02-2024      , SF           , None
+Gamma LLC , Manufacturing, twenty  , 2024.01.12      , Austin       , None
+NextGen   , Manufacturing, None    , 20-02-2024      , New York     , None
+OmegaCorp , IT           , thirty  , 2024.04.04      , Seattle      , None
+OmegaCorp , Healthcare   , None    , 06-05-2024      , Austin       , None
+FutureTek , IT           , 148     , 15-05-2024      , Boston       , None
+DataWorks , IT           , None    , 2024.01.01      , Austin       , None
+InnoSoft  , Finance      , None    , 29-04-2024      , Chicago      , None
+InnoSoft  , Healthcare   , None    , January 30 2024 , NYC          , None
+TechNova  , IT           , None    , 2024.02.16      , SF           , None
+Gamma LLC , Finance      , 66      , 2024.04.29      , new york     , None
+DataWorks , IT           , None    , 20-05-2024      , Austin       , None
+TechNova  , Healthcare   , None    , 2024.05.13      , San Francisco, 362
+NextGen   , Retail       , 96      , 10-04-2024      , Seattle      , 112.7
+NextGen   , Healthcare   , 37      , 2024.04.21      , San Fran     , None
+NextGen   , Manufacturing, None    , 19-03-2024      , SF           , 43.2
+NextGen   , Manufacturing, None    , February 16 2024, San Francisco, 173.6
+NextGen   , Retail       , thirty  , 30-04-2024      , new york     , 63.7
+OmegaCorp , Healthcare   , thirty  , 08-01-2024      , San Francisco, None
+InnoSoft  , IT           , twenty  , May 03 2024     , New York     , None
+BetaSoft  , Manufacturing, 75      , February 16 2024, new york     , None
+DataWorks , Healthcare   , None    , 11-02-2024      , San Fran     , None
+TechNova  , IT           , None    , 16-05-2024      , Austin       , 75.4
+Alpha Inc., Healthcare   , None    , 21-03-2024      , Boston       , None
+Alpha Inc., Finance      , thirty  , 01-04-2024      , Seattle      , None
+NextGen   , Manufacturing, 190     , 11-04-2024      , Austin       , None
+BetaSoft  , Healthcare   , thirty  , 24-01-2024      , SF           , None
+TechNova  , Manufacturing, thirty  , February 20 2024, Seattle      , None
+InnoSoft  , Retail       , 122     , 16-03-2024      , NYC          , 196.4
+DataWorks , Finance      , None    , 01-04-2024      , Chicago      , None
+Alpha Inc., IT           , thirty  , 06-05-2024      , SF           , None
+OmegaCorp , Finance      , twenty  , 11-05-2024      , San Fran     , 77.4
+OmegaCorp , Manufacturing, twenty  , 19-04-2024      , Austin       , None
+InnoSoft  , Retail       , twenty  , 2024.03.16      , SF           , None
+NextGen   , Healthcare   , None    , 29-05-2024      , San Fran     , None
+TechNova  , Manufacturing, 30      , 2024.01.06      , San Fran     , None
+DataWorks , Healthcare   , thirty  , February 06 2024, San Fran     , 390.5
+CloudNine , IT           , None    , February 25 2024, Boston       , None
+OmegaCorp , IT           , 83      , 27-05-2024      , Austin       , None
+InnoSoft  , Finance      , twenty  , 09-05-2024      , San Francisco, 299.4
+InnoSoft  , IT           , None    , January 28 2024 , Boston       , None
+Alpha Inc., Finance      , thirty  , 12-01-2024      , San Francisco, None
+InnoSoft  , Manufacturing, 167     , 24-05-2024      , Boston       , None
+BetaSoft  , Manufacturing, 89      , 2024.01.12      , Seattle      , 80.6
+Gamma LLC , Retail       , None    , 18-02-2024      , Chicago      , 254.1
+TechNova  , Manufacturing, None    , May 26 2024     , New York     , None
+Gamma LLC , Finance      , thirty  , May 21 2024     , San Francisco, None
+DataWorks , IT           , twenty  , 21-03-2024      , Austin       , 40.3
+NextGen   , Manufacturing, 74      , 07-04-2024      , San Francisco, 342.4
+InnoSoft  , IT           , None    , 26-03-2024      , Austin       , None
+InnoSoft  , IT           , twenty  , March 15 2024   , Chicago      , None
+NextGen   , IT           , 93      , 2024.03.07      , new york     , 25.2
+NextGen   , IT           , 12      , 26-01-2024      , San Fran     , 358.1
